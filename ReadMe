@@ -1,0 +1,7 @@
+1- Two models were trained, one based on ResNet50 as the backbone and the other one is based on MobileNetV2.
+
+2- All accuracies are shown on the notebook.
+
+3- The create_csv.ipynb is responsible for creating a csv file for the data from the best trained model so this directory contains 2 csv files resulting from the two trained model.
+
+4- We could have reached better accuracy if we ran for more epochs. The two model showed potential of improvement, if we run more and more we will reach more accuracy.
